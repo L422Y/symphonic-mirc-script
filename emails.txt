@@ -1,0 +1,12 @@
+[nyteG]
+email=nyte@techie.com
+
+[digist]
+email=digist@techie.com
+
+[Cynthia]
+email=ccarrill@rohan.sdsu.edu
+
+[hex]
+email=hexx@ringnett.no
+
